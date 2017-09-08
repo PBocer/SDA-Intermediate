@@ -14,7 +14,7 @@
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.16.16" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:${slf4j-version}" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:${slf4j-version}" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:${mockito-version}" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.8.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:${junit-version}" level="project" />
   </component>
 </module>
