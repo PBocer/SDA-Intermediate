@@ -24,6 +24,7 @@
         <module>DesignPatterns</module>
         <module>javaintermediate</module>
         <module>tdd</module>
+        <module>designpattern</module>
     </modules>
 
     <dependencies>
