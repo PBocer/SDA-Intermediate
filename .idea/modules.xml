@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDAIntermediate.iml" filepath="$PROJECT_DIR$/SDAIntermediate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaintermediate/javaintermediate.iml" filepath="$PROJECT_DIR$/javaintermediate/javaintermediate.iml" />
       <module fileurl="file://$PROJECT_DIR$/tdd/tdd.iml" filepath="$PROJECT_DIR$/tdd/tdd.iml" />
     </modules>

@@ -25,6 +25,7 @@
         <module>javaintermediate</module>
         <module>tdd</module>
         <module>designpattern</module>
+        <module>commons</module>
     </modules>
 
     <dependencies>

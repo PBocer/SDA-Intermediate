@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="commons" />
         <module name="DesignPatterns" />
         <module name="javaintermediate" />
         <module name="tdd" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="commons" target="1.8" />
       <module name="DesignPatterns" target="1.8" />
       <module name="javaintermediate" target="1.8" />
       <module name="SDAIntermediate" target="1.8" />
