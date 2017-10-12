@@ -13,6 +13,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.8.4" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.16.16" level="project" />
     <orderEntry type="module" module-name="tdd" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:${slf4j-version}" level="project" />
